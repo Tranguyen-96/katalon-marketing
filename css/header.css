@@ -1,0 +1,444 @@
+.background-header-1 {
+    position: relative;
+    height: 570px;
+    background-image: url(/images/bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    position: absolute;
+    width: 15%;
+    height: 7%;
+    left: 8%;
+    top: 59px;
+    float: left;
+    background-image: url(/images/Katalon.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.title-header-1 {
+    position: absolute;
+    left: 15%;
+    top: 194px;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 65px;
+    color: #FFFFFF;
+    z-index: 2;
+}
+
+.title-header-2 {
+    position: absolute;
+    top: 275px;
+    left: 29%;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-align: center;
+    width: 44%;
+}
+
+.inline-header {
+    position: absolute;
+    width: 30%;
+    height: 4%;
+    right: 11%;
+    top: 233px;
+    background: #0C60DF;
+    z-index: 0;
+}
+
+.btn-header {
+    position: absolute;
+    width: 13%;
+    height: 8%;
+    left: 43%;
+    top: 370px;
+    background: #1E9AFF;
+    text-align: center;
+    border: none;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.box-header {
+    position: absolute;
+    width: 57%;
+    height: 70%;
+    left: 22%;
+    top: 473px;
+    background: linear-gradient(180deg, #FFFFFF 58.26%, rgba(255, 255, 255, 0) 100%);
+    z-index: 2;
+    text-align: center;
+    border-radius: 32px;
+    box-shadow: 0px 85px 53px -33px rgba(0, 48, 165, 0.05);
+}
+
+#signup .box-header {
+    height: 20%;
+}
+
+.img-champ {
+    padding-right: 0%;
+}
+
+.title-box {
+    padding-top: 3%;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.title-box-1 {
+    padding-top: 3%;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 7%;
+}
+
+.icon-1 {
+    margin-top: 4%;
+}
+
+.icon-2 {
+    margin-top: 3%;
+    font-size: 15px;
+    padding-left: 30px;
+}
+
+.content-no-signup {
+    margin-top: 15%;
+    text-align: left;
+    z-index: 3;
+}
+
+#signup .content-no-signup {
+    margin-top: 10%;
+    text-align: left;
+    z-index: 3;
+}
+
+.title-content-box {
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.box-signup {
+    width: 641px;
+    background: #FFFFFF;
+    box-shadow: 0px 50px 77px -27px rgba(27, 79, 206, 0.15);
+    border-radius: 36px;
+    padding: 0 3%;
+}
+
+#content-signin {
+    margin: 39px 40px;
+}
+
+#content-signin .title-content-box {
+    font-weight: 200;
+    font-size: 27px;
+}
+
+.numb-status {
+    font-size: 56px;
+    line-height: 66px;
+    letter-spacing: 0.01em;
+    color: #1A4DCC;
+}
+
+.cont-status {
+    font-size: 14px;
+    color: #3F507A;
+    display: inline-block;
+    width: 100px;
+}
+
+#countdown {
+    margin-left: 0%;
+}
+
+#content-signin #countdown div {
+    display: inline-block;
+    font-size: 12px;
+    text-align: center;
+    padding-left: 0!important;
+    padding-right: 0!important;
+    width: 8%;
+}
+
+#content-signin #countdown div span {
+    display: block;
+    font-size: 33px;
+    color: #1A4DCC;
+    text-align: center;
+}
+
+#content-signin .referral-status,
+#countdown {
+    margin-bottom: 20px;
+}
+
+.link-referral a {
+    font-size: 14px;
+    color: #0035B7;
+}
+
+#content-signup #countdown div {
+    display: inline-block;
+    font-size: 12px;
+    text-align: center;
+    padding-left: 0!important;
+    padding-right: 0!important;
+    width: 6%;
+}
+
+#content-signup #countdown div span {
+    display: block;
+    font-size: 30px;
+    color: #1A4DCC;
+    text-align: center;
+}
+
+.btn-div {
+    margin-top: 3%;
+}
+
+.btn-join {
+    position: relative;
+    width: 36%;
+    height: 60px;
+    text-align: center;
+    border: none;
+    color: #FFFFFF;
+    background: #0C60DF;
+    border-radius: 5px;
+}
+
+.btn-share {
+    position: relative;
+    width: 36%;
+    height: 50px;
+    border: none;
+    color: #FFFFFF;
+    background: #0C60DF;
+    border-radius: 5px;
+    text-align: left;
+    margin-bottom: 3%;
+}
+
+.btn-share img {
+    position: absolute;
+    margin: -4% 7%;
+}
+
+.btn-share span {
+    position: absolute;
+    margin-left: 32%;
+    margin-top: -6%;
+}
+
+.inline-cont {
+    border: 1px solid #A3D0F1;
+    box-sizing: border-box;
+    width: 575px;
+    margin-top: 10px;
+}
+
+.cont-type {
+    font-size: 25px;
+}
+
+.cont-type span {
+    font-weight: 700;
+}
+
+.cont-type-1 {
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #1A4DCC;
+    margin: 15px 0;
+}
+
+.content-div {
+    margin-top: 3%;
+    font-size: 32px;
+    font-weight: 100;
+    line-height: 148%;
+    color: #081D36;
+}
+
+.content-div span {
+    font-weight: 400;
+}
+
+.content-div u {
+    color: #1A4DCC;
+}
+
+.content-body {
+    margin: 2% 5%;
+}
+
+.box-cont-type {
+    border: 2px solid #A3D0F1;
+    background: #FFFFFF;
+    border-radius: 14px;
+    margin-top: 15px;
+}
+
+.box-cont-type-1 {
+    background: #F3FAFF;
+    border-radius: 0 0 14px 14px !important;
+}
+
+.card-content {
+    padding: 15px;
+}
+
+.icon-box {
+    float: right;
+    text-align: right;
+}
+
+.icon-box span {
+    margin: 10px;
+}
+
+#signup .content-body {
+    margin: 2% 14%;
+}
+
+.content-table {
+    margin: 2% 15%;
+}
+
+.content-table .title-content-table {
+    margin-top: 4%;
+}
+
+.content-table .title-content-table .labe-content {
+    font-size: 17px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #3F507A;
+}
+
+.content-table .title-content-table .labe-value {
+    font-size: 17px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #3F507A;
+    text-align: right;
+}
+
+.content-table .element-table .inline-content {
+    margin: 2% 5% 2% 0;
+}
+
+.content-table .element-table .labe-content {
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.01em;
+    color: #3F507A;
+}
+
+.content-table .element-table .labe-value {
+    font-size: 17px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    color: #3F507A;
+    text-align: right;
+}
+
+.content-table .page-num {
+    font-size: 18px;
+    line-height: 21px;
+    color: #8F9CBD;
+    margin: 4% 0;
+}
+
+.page-num .labe-content span {
+    width: 7%;
+    text-align: center;
+}
+
+.page {
+    background: #0C60DF;
+    border-radius: 5px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.title-table {
+    font-size: 138%;
+    line-height: 38px;
+    color: #081D36;
+}
+
+
+/* footer */
+
+.title-content-faq {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #081D36;
+    text-align: center;
+}
+
+.lb-content {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.content-des {
+    padding: 20px;
+}
+
+.btn-content {
+    font-size: 15px;
+    text-align: right;
+    color: #0035B7;
+}
+
+.inline-content {
+    border: 1px solid #DFDFFF;
+    margin: 15px;
+}
+
+.title-footer {
+    font-size: 15px;
+    font-weight: 300;
+    padding: 4px 0;
+}
+
+.item-footer {
+    font-size: 15px;
+    font-weight: 400;
+    padding: 4px 0;
+}
+
+.addr-footer {
+    font-size: 15px;
+    font-weight: 200;
+    padding-top: 25px;
+}
+
+.copy-footer {
+    font-size: 15px;
+    font-weight: 200;
+    color: #98A6B7;
+    margin-top: 100px;
+}
+
+.icon-footer {
+    text-align: center;
+    padding-top: 10px;
+}

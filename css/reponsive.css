@@ -1,0 +1,347 @@
+@media only screen and (max-width: 640px) {
+    .logo {
+        width: 10%;
+        height: 7%;
+        left: 4%;
+        top: 14px;
+    }
+    .title-header-1 {
+        left: 15%;
+        top: 49px;
+        font-size: 24px;
+    }
+    .title-header-2 {
+        top: 100px;
+        left: 31%;
+        font-size: 10px;
+    }
+    .inline-header {
+        width: 30%;
+        height: 2%;
+        right: 13%;
+        top: 85px;
+    }
+    .btn-header {
+        width: 16%;
+        height: 4%;
+        left: 44%;
+        top: 146px;
+        font-size: 8px;
+    }
+    .box-header {
+        width: 65%;
+        width: 63%;
+        height: 21%;
+        left: 22%;
+        top: 220px;
+    }
+    #signup .box-header {
+        height: 29%;
+    }
+    .title-box-1 {
+        padding-top: 3%;
+        font-size: 13px;
+        margin: 6%;
+    }
+    .icon-2 {
+        margin-top: 3%;
+        font-size: 8px;
+        padding-left: 10px;
+    }
+    .content-no-signup {
+        margin-top: -26%;
+        text-align: left;
+        z-index: 3;
+    }
+    #content-signup #countdown div {
+        width: 12%;
+    }
+    .btn-join {
+        width: 36%;
+        height: 30px;
+    }
+    .content-div {
+        font-size: 25px;
+    }
+    #signup .content-no-signup {
+        margin-top: -41%;
+    }
+    .content-no-signup .col img {
+        width: 100%;
+        height: 97%;
+    }
+    .title-content-box {
+        font-size: 23px;
+        font-weight: 300;
+    }
+    .col-11 {
+        width: 88.666667%;
+    }
+    .inline-cont {
+        width: 510px;
+    }
+    .btn-share span {
+        margin-left: 29%;
+    }
+    .content-table .element-table .inline-content {
+        margin: 2% 0% 2% 0;
+    }
+    .col-10 {
+        width: 81.333333%;
+    }
+    .col-9 {
+        width: 67%;
+    }
+}
+
+@media only screen and (min-width: 641px) and (max-width: 768px) {
+    .logo {
+        width: 16%;
+        left: 8%;
+        top: 36px;
+    }
+    .title-header-1 {
+        left: 15%;
+        top: 96px;
+        font-size: 29px;
+    }
+    .title-header-2 {
+        top: 162px;
+        left: 29%;
+        font-size: 12px;
+    }
+    .inline-header {
+        width: 30%;
+        height: 2%;
+        right: 11%;
+        top: 133px;
+    }
+    .btn-header {
+        width: 16%;
+        height: 7%;
+        left: 43%;
+        top: 211px;
+        font-size: 14px;
+    }
+    .box-header {
+        width: 57%;
+        width: 57%;
+        height: 25%;
+        left: 22%;
+        top: 275px;
+    }
+    .content-no-signup {
+        margin-top: -12%;
+        text-align: left;
+        z-index: 3;
+    }
+    .icon-2 {
+        margin-top: 3%;
+        font-size: 14px;
+    }
+    #signup .content-no-signup {
+        margin-top: -18%;
+    }
+    .col-11 {
+        width: 89.666667%;
+    }
+    .inline-cont {
+        width: 596px;
+    }
+    .content-table .element-table .inline-content {
+        margin: 2% -3% 2% 0;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 960px) {
+    .title-header-1 {
+        left: 15%;
+        top: 119px;
+        font-size: 37px;
+    }
+    .title-header-2 {
+        top: 186px;
+        font-size: 16px;
+    }
+    .inline-header {
+        height: 3%;
+        right: 10%;
+        top: 157px;
+    }
+    .btn-header {
+        width: 16%;
+        height: 8%;
+        left: 43%;
+        top: 247px;
+    }
+    .box-header {
+        width: 57%;
+        width: 57%;
+        height: 25%;
+        left: 24%;
+        top: 350px;
+    }
+    .title-box-1 {
+        padding-top: 1%;
+        font-size: 22px;
+    }
+    .icon-2 {
+        margin-top: 3%;
+        font-size: 12px;
+        padding-left: 22px;
+    }
+    .content-no-signup {
+        margin-top: -2%;
+        text-align: left;
+        z-index: 3;
+    }
+    #signup .content-no-signup {
+        margin-top: -4%;
+    }
+    .col-11 {
+        width: 89.666667%;
+    }
+    .inline-cont {
+        width: 597px;
+    }
+    .col-10 {
+        width: 80.333333%;
+    }
+    .content-table .element-table .inline-content {
+        margin: 2% 2% 2% 0;
+    }
+}
+
+@media only screen and (min-width: 961px) and (max-width: 1024px) {
+    .title-header-1 {
+        left: 15%;
+        top: 119px;
+        font-size: 40px;
+    }
+    .title-header-2 {
+        top: 188px;
+        font-size: 16px;
+    }
+    .inline-header {
+        height: 3%;
+        right: 9%;
+        top: 157px;
+        width: 30.5;
+    }
+    .btn-header {
+        width: 16%;
+        height: 8%;
+        left: 43%;
+        top: 260px;
+    }
+    #signup .box-header {
+        height: 16%;
+    }
+    .box-header {
+        height: 52%;
+        left: 22%;
+        top: 371px;
+    }
+    .content-no-signup {
+        margin-top: 1%;
+    }
+    .title-box-1 {
+        padding-top: 1%;
+        font-size: 27px;
+    }
+    .icon-2 {
+        margin-top: 3%;
+        font-size: 12px;
+        padding-left: 22px;
+    }
+    #signup .content-no-signup {
+        margin-top: -4%;
+    }
+    #content-signin {
+        margin: 39px 17%;
+    }
+    .box-signup {
+        width: 643px;
+        padding: 0 3%;
+        margin-left: 9%;
+    }
+    .col-11 {
+        width: 89.666667%;
+    }
+    .inline-cont {
+        width: 597px;
+    }
+    .col-10 {
+        width: 80.333333%;
+    }
+    .content-table .element-table .inline-content {
+        margin: 2% 2% 2% 0;
+    }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+    .title-header-1 {
+        left: 15%;
+        top: 123px;
+    }
+    .inline-header {
+        height: 3%;
+        right: 12%;
+        top: 163px;
+        width: 29.5%;
+    }
+    .btn-header {
+        width: 19%;
+        height: 9%;
+        left: 41%;
+        top: 295px;
+    }
+    .title-header-2 {
+        top: 206px;
+        font-size: 19px;
+    }
+    .box-header {
+        height: 52%;
+        left: 22%;
+        top: 433px;
+    }
+    .title-box-1 {
+        margin: 4%;
+    }
+    #signup .box-header {
+        height: 40%;
+    }
+    .content-no-signup {
+        margin-top: 5%;
+    }
+    #signup .content-no-signup {
+        margin-top: 3%;
+    }
+    #content-signin #countdown div {
+        width: 7%;
+    }
+    .box-signup {
+        margin-left: 0%;
+    }
+    #content-signin {
+        margin: 39px 3%;
+    }
+    .content-table .element-table .inline-content {
+        margin: 2% 0% 2% 0;
+    }
+    .lb-value {
+        text-align: right;
+    }
+    .link-referral img {
+        width: 4.5%!important;
+    }
+    #content-signin #countdown div {
+        width: 14%;
+    }
+    .col-9 {
+        width: 75%;
+    }
+    .col-10 {
+        width: 83.333333%;
+    }
+}
